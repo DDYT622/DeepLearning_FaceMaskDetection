@@ -2,6 +2,8 @@
 
 datasets_ref/
 datasets/original/
+datasets/processed@v2/correct_mask_temp
+datasets/processed@v2/incorrect_mask_temp
 
 
 # Byte-compiled / optimized / DLL files
